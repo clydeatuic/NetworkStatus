@@ -11,10 +11,6 @@ Guide for UIC MAD Students
 
 ### Demo
 
-Click <a href="https://goo.gl/sSwLPx">here</a>
-to download released version of CloudDatabase.apk
-<br/>
-
 <br/>
 
 <img src="https://github.com/clydeatuic/NetworkStatus/blob/master/networkstatus_preview.gif" />
